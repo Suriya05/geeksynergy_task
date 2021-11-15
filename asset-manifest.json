@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Suriya05/geeksynergy_task/static/css/main.40869c13.chunk.css",
+    "main.js": "/Suriya05/geeksynergy_task/static/js/main.7d4094b4.chunk.js",
+    "main.js.map": "/Suriya05/geeksynergy_task/static/js/main.7d4094b4.chunk.js.map",
+    "runtime-main.js": "/Suriya05/geeksynergy_task/static/js/runtime-main.6b145d84.js",
+    "runtime-main.js.map": "/Suriya05/geeksynergy_task/static/js/runtime-main.6b145d84.js.map",
+    "static/css/2.383c0125.chunk.css": "/Suriya05/geeksynergy_task/static/css/2.383c0125.chunk.css",
+    "static/js/2.143f1a72.chunk.js": "/Suriya05/geeksynergy_task/static/js/2.143f1a72.chunk.js",
+    "static/js/2.143f1a72.chunk.js.map": "/Suriya05/geeksynergy_task/static/js/2.143f1a72.chunk.js.map",
+    "static/js/3.53a4d5e4.chunk.js": "/Suriya05/geeksynergy_task/static/js/3.53a4d5e4.chunk.js",
+    "static/js/3.53a4d5e4.chunk.js.map": "/Suriya05/geeksynergy_task/static/js/3.53a4d5e4.chunk.js.map",
+    "index.html": "/Suriya05/geeksynergy_task/index.html",
+    "static/css/2.383c0125.chunk.css.map": "/Suriya05/geeksynergy_task/static/css/2.383c0125.chunk.css.map",
+    "static/css/main.40869c13.chunk.css.map": "/Suriya05/geeksynergy_task/static/css/main.40869c13.chunk.css.map",
+    "static/js/2.143f1a72.chunk.js.LICENSE.txt": "/Suriya05/geeksynergy_task/static/js/2.143f1a72.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6b145d84.js",
+    "static/css/2.383c0125.chunk.css",
+    "static/js/2.143f1a72.chunk.js",
+    "static/css/main.40869c13.chunk.css",
+    "static/js/main.7d4094b4.chunk.js"
+  ]
+}
